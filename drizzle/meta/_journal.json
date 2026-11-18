@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1795005115905,
+      "tag": "0000_salty_sister_grimm",
+      "breakpoints": true
+    }
+  ]
+}
